@@ -55,9 +55,26 @@ WhatsApp automation, restaurant order systems, e-commerce support**, and
 **Tools:** n8n, Cron, Social Media APIs  
 
 📎 Workflow:  
-[Multi-Platform Video Auto-Poster with Smart Hashtags.json](https://github.com/user-attachments/files/24467028/Multi-Platform.Video.Auto-Poster.with.Smart.Hashtags.json)
+[Multi-Platform Video Auto-Poster with Smart Hashtags.json](https://github.com/user-attachments/files/24467028/Multi-Platform.Video.Auto-Poster.with.Smart.Hashtags.json) 
 
----
+4️⃣ AI Phone Booking & CRM Automation
+
+AI-powered voice booking system that answers calls, understands customer intent, books appointments, and updates CRM automatically.
+
+Features:
+- GPT-4 powered AI conversation handling
+- VAPI.ai voice integration
+- Automatic appointment scheduling
+- GoHighLevel (GHL) CRM updates
+- Conditional logic & error handling
+- Production-ready webhook architecture
+
+Tools: n8n, OpenAI (GPT-4), VAPI.ai, GoHighLevel API
+
+📎 Workflow:
+Automate AI phone booking & CRM updates with GPT-4, VAPI.ai, and GHL.json
+
+
 
 ## 📬 Contact
 - 📧 Email: zatech2023@gmail.com
